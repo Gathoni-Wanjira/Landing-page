@@ -1,0 +1,65 @@
+body{
+
+    background: url("https://i.pinimg.com/564x/76/d8/1f/76d81f65e91e004f008010b9c3b46f7a.jpg") ;
+    background-repeat: no-repeat;
+    /* background-color: black; */
+    height: 80vh;
+    background-size: cover;
+    /* min-height: 500px;
+    margin-top:  0px; */
+    position :relative;
+    top: 0px;
+
+}
+.heading{
+    color: #F7F5EB;
+    text-align: center;
+    /* padding-top: 20%;  */
+    font-family: serif;
+    font-size: 50px;
+    margin-bottom: 5px;
+
+
+}
+
+#footer{
+    color:#FFF;
+}
+
+#footer a{
+
+    color: #FFF;
+
+}
+footer{
+
+    position: fixed;
+    left: 10;
+    bottom: 0;
+    color: #FFFF;
+
+}
+.line{
+width: 20%;
+margin: auto;
+
+}
+
+.lower-heading{
+
+    text-align: center;
+    color: #FFF;
+    font-family: serif;
+    font-size: 40px;
+
+}
+.header{
+   
+    color: #FFF;
+    font-size: 40px;
+    left: 0px;
+    top: 0px; 
+    position: relative;
+    padding: -1px 0;
+
+}
